@@ -1,4 +1,5 @@
 # CS_3980_Midterm - Task app on FastAPI
+![Task_App](https://github.com/user-attachments/assets/c997d2b3-339c-45bc-854d-d5988fc0726d)
 ## Steps to run:
 ##### After FastAPI is installed
 ### Step 1:
